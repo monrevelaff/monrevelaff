@@ -22,11 +22,11 @@ I'm also learning Unity, exploring how I can turn things I encounter in my daily
 * Improve my Git and GitHub workflow
 * Keep building projects and learning along the way
 
-## 📌 Projects
+## Projects
 
 Take a look through my repositories to see what I'm currently building and learning.
 
 Thanks for stopping by, here are my socials (felt like I need to include it xd)
 
-*  [![Instagram](https://shields.io)](https://instagram.com)
-*  [![Steam](https://shields.io)](https://steamcommunity.com)
+*  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/khaulahazri?stkn=d20yb2xlMHJ4bmNi&utm_source=qr)
+*  [![Steam](https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199124996810)
